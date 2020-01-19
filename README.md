@@ -1,2 +1,2 @@
-# Collabnix - A Curated List of Collabnix 
+# Collabnix - A Curated List of Collabnix Resources
 
