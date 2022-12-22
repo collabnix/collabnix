@@ -12,8 +12,9 @@
 
 ## Community
 
-- [Collaborative Blog](https://community.collabnix.com) - Contributed by the Community
+- [Community Blog on Hashnode](https://community.collabnix.com) - Contributed by the Community
 - [Blog](https://collabnix.com) - Announcements and updates
+- [Dev.to](https://dev.to/collabnix) - The DEVCommunity Site
 - [Discord chatroom](https://discord.gg/ztZpXzjSmF) - Get support or discuss the project
 - [Contributing to Collabnix](https://github.com/collabnix/collabnix/blob/master/CONTRIBUTING.md) - Start here if you want to contribute
 - [FAQ](https://github.com/collabnix/) - Coming soon
