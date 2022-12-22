@@ -21,4 +21,10 @@
 - [Code of Conduct](CODE_OF_CONDUCT.md) - Coming soon
 
 
+## Support and Chat
+
+- [Slack](https://launchpass.com/collabnix) - Our Community Slack
+- [Discord](https://discord.gg/ztZpXzjSmF) - Collabnix Discord Server
+
+
 
