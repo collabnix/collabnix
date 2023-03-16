@@ -1,4 +1,4 @@
-# Collabnix - A Community of 7700+ DevOps Engineers
+# Collabnix - A Community of 8000+ DevOps Engineers
 
 
 ## Projects
