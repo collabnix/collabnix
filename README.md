@@ -1,4 +1,4 @@
-# Collabnix - A Community of 8000+ DevOps Engineers
+# Collabnix - A Community of 8800+ DevOps Engineers
 
 
 ## Projects
@@ -7,6 +7,8 @@
 - [KubeLabs](https://kubelabs.collabnix.com) - Access to 300+ Kubernetes Hands-on Labs & Tutorials 
 - [Kubetools](https://kubetools.collabnix.com) - A Curated List of Kubernetes Tools
 - [DockerTools](https://dockertools.collabnix.com) - A Curated List of Docker Tools
+- [Docker Scout](https://github.com/collabnix/docker-scout-community) - A Curated List of Docker Scout Resources
+- [Docker Extensions](https://dockerextensions.collabnix.com) - A Curated List of Docker Extensions
 
 
 
