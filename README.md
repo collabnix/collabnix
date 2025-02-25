@@ -14,7 +14,6 @@
 
 ## Community
 
-- [Community Blog on Hashnode](https://community.collabnix.com) - Contributed by the Community
 - [Blog](https://collabnix.com) - Announcements and updates
 - [Dev.to](https://dev.to/collabnix) - The DEVCommunity Site
 - [Discord chatroom](https://discord.gg/ztZpXzjSmF) - Get support or discuss the project
