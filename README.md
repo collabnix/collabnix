@@ -9,6 +9,7 @@
 - [DockerTools](https://dockertools.collabnix.com) - A Curated List of Docker Tools
 - [Docker Scout](https://github.com/collabnix/docker-scout-community) - A Curated List of Docker Scout Resources
 - [Docker Extensions](https://dockerextensions.collabnix.com) - A Curated List of Docker Extensions
+- [AIWatch](https://github.com/collabnix/aiwatch) - AI Model Management and Observability Stack
 
 
 
